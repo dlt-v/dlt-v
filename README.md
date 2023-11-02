@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Thomas and I like programming various things as well as include that knowledge during video game development.
+My name is Tomek and I like programming various things as well as include that knowledge during video game development.
 
 <!--
 **dlt-v/dlt-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
